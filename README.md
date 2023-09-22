@@ -1,5 +1,12 @@
 # c-linked-list
 
+## Clone project
+
+```
+git clone https://github.com/Fakorede/c-linked-list
+cd c-linked-list
+```
+
 ## Running project
 
 To build and run the project, execute the command below. It compiles the code using the gcc compiler, and generate an executable file which is then immediately ran:
